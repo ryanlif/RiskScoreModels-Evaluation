@@ -23,7 +23,7 @@ As shown in Figure 1, the performance and reliability of a risk score model shou
 
 
 <p align="center">
- <img src="Figures/Evaluation_metric.png" width="50%">
+ <img src="Figures/Evaluation_metric.png" width="60%">
     <br>
     <em>Fig. 1 Evaluation metrics of risk score models in healthcare.</em>
 </p>
@@ -31,7 +31,7 @@ As shown in Figure 1, the performance and reliability of a risk score model shou
 Figure 2 shows an example evaluation process on the three evaluation aspects, i.e., predictive performance, fairness metrics and model explainability, in T1D. It incldues three components: data, model and evaluation. Data: We first preprocessed the imbalanced data with missing value imputation and downsampling and split it into clean training data and test data. Model: We trained the risk score models on the training data and used cross validation to select the best models. Evaluation: We tested the models on the test data from three evaluation aspects.
 
 <p align="center">
- <img src="Figures/framework.png" width="50%">
+ <img src="Figures/framework.png" width="60%">
     <br>
     <em>Fig. 2 An example evaluation on the predicitive performance, algorithmic fairness and explainability in T1D.</em>
 </p>
