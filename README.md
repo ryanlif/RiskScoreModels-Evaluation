@@ -39,16 +39,13 @@ Figure 2 shows an example evaluation process on the three evaluation aspects, i.
 ## Contact
 
 **Ryan (Feng) Lin**  
-
 _Ph.D. Student_  
 ryanflin@uw.edu
 
-**Congjing Zhang** 
-
+**Congjing Zhang**  
 _Ph.D. Student_ 
 congjing@uw.edu
 
 **Shuai Huang**  
-
 _Professor_  
 shuaih@uw.edu
