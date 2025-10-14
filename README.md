@@ -2,9 +2,9 @@
 
 
 
-<p align="center">
+<p align="left">
 <a href="https://ise.washington.edu/" target="_blank">
-    <img src="https://img.shields.io/badge/About-UW/ISE-blue.svg" height="22">
+    <img src="https://img.shields.io/badge/About-University of Washington, Department of Industrial & Systems Engineering-blue.svg" height="22">
   </a>
 </p>
 
@@ -23,7 +23,7 @@ As shown in Figure 1, the performance and reliability of a risk score model shou
 
 
 <p align="center">
- <img src="Figures/Evaluation_metric.png" width="80%">
+ <img src="Figures/Evaluation_metric.png" width="70%">
     <br>
     <em>Fig. 1 Evaluation metrics of risk score models in healthcare.</em>
 </p>
@@ -31,14 +31,20 @@ As shown in Figure 1, the performance and reliability of a risk score model shou
 Figure 2 shows an example evaluation process on the three evaluation aspects, i.e., predictive performance, fairness metrics and model explainability, in T1D. It incldues three components: data, model and evaluation. Data: We first preprocessed the imbalanced data with missing value imputation and downsampling and split it into clean training data and test data. Model: We trained the risk score models on the training data and used cross validation to select the best models. Evaluation: We tested the models on the test data from three evaluation aspects.
 
 <p align="center">
- <img src="Figures/framework_updated.pdf" width="80%">
+ <img src="Figures/framework.png" width="70%">
     <br>
     <em>Fig. 2 An example evaluation on the predicitive performance, algorithmic fairness and explainability in T1D.</em>
 </p>
 
 ## Contact
-Ryan (Feng) Lin: ryanflin@uw.edu
+**Ryan (Feng) Lin**  
+_Ph.D. Student_  
+ryanflin@uw.edu
 
-Congjing Zhang: congjing@uw.edu
+**Congjing Zhang** 
+_Ph.D. Student_ 
+congjing@uw.edu
 
-Shuai Huang: shuaih@uw.edu
+**Shuai Huang**  
+_Professor_  
+shuaih@uw.edu
