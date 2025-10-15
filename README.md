@@ -23,7 +23,7 @@ As shown in Figure 1, the performance and reliability of a risk score model shou
 
 
 <p align="center">
- <img src="Figures/Evaluation_metric.png" width="65%">
+ <img src="Figures/Evaluation_metric_v2.png" width="65%">
     <br>
     <em>Fig. 1 Evaluation metrics of risk score models in healthcare.</em>
 </p>
